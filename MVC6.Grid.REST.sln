@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC6.Grid.REST", "MVC6.Grid.REST\MVC6.Grid.REST.csproj", "{4A8C0EEC-63A4-4C6E-B4D1-ACDEA2630774}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC6.Grid.REST.Tests", "MVC6.Grid.REST.Tests\MVC6.Grid.REST.Tests.csproj", "{63CF6799-E3C2-4C52-9D20-1D0B927EA924}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A8C0EEC-63A4-4C6E-B4D1-ACDEA2630774}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8C0EEC-63A4-4C6E-B4D1-ACDEA2630774}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8C0EEC-63A4-4C6E-B4D1-ACDEA2630774}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8C0EEC-63A4-4C6E-B4D1-ACDEA2630774}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CF6799-E3C2-4C52-9D20-1D0B927EA924}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CF6799-E3C2-4C52-9D20-1D0B927EA924}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CF6799-E3C2-4C52-9D20-1D0B927EA924}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CF6799-E3C2-4C52-9D20-1D0B927EA924}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC79A09-13AF-4A46-9776-25DD658B5A1B}
+	EndGlobalSection
+EndGlobal
